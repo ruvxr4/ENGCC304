@@ -16,4 +16,5 @@ int main(){
         printf("invalidi input or not enough number.\n");
     }
     return 0;
-}
+
+}//end main
